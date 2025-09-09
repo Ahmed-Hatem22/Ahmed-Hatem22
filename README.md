@@ -24,9 +24,7 @@
     <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" height="25" style="color:#2EC866"/> HackerRank #2
   </a> |
   
-  <a href="https://stackoverflow.com/users/YOUR-ID" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/stackoverflow.svg" height="25"/> Stack Overflow
-  </a> |
+
   
   <a href="https://www.instagram.com/YOUR-INSTAGRAM" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=instagram" height="25"/> Instagram
