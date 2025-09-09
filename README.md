@@ -15,7 +15,7 @@
   </a> |
   
   <!-- HackerRank #1 -->
-  <a href="https://www.hackerrank.com/2004227" target="_blank">
+  <a href="https://www.hackerrank.com/profile/2004227" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" height="25" style="color:#2EC866"/> HackerRank #1
   </a> |
   
