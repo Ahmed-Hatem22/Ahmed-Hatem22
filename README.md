@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Ahmed+Hatem....;BackendDeveloper;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Ahmed+Hatem....;Backend+Developer;&center=true&size=30">
   </a>
 </h1>
 
@@ -13,15 +13,25 @@
   <a href="https://www.linkedin.com/in/ahmed-hatem-14a657322/" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="25"/> LinkedIn
   </a> |
+  
+  <!-- HackerRank #1 -->
   <a href="https://www.hackerrank.com/2004227" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" height="25" style="color:#2EC866"/> HackerRank
+    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" height="25" style="color:#2EC866"/> HackerRank #1
   </a> |
+  
+  <!-- HackerRank #2 -->
+  <a href="https://www.hackerrank.com/YOUR-SECOND-ACCOUNT" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" height="25" style="color:#2EC866"/> HackerRank #2
+  </a> |
+  
   <a href="https://stackoverflow.com/users/YOUR-ID" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/stackoverflow.svg" height="25"/> Stack Overflow
   </a> |
-  <a href="https://www.instagram.com/" target="_blank">
+  
+  <a href="https://www.instagram.com/YOUR-INSTAGRAM" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=instagram" height="25"/> Instagram
   </a> |
+  
   <a href="mailto:ah2004227@gmail.com" target="_blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="25"/> Email
   </a>
