@@ -1,16 +1,83 @@
-## Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AhmedHatem.AhmedHatem">
 
-<!--
-**Ahmed-Hatem22/Ahmed-Hatem22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Ahmed+Hatem....;Backend+Developer+%7C+CS+Student;&center=true&size=30">
+  </a>
+</h1>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">🌐 Connect with me</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="25"/> LinkedIn
+  </a> |
+  <a href="https://www.hackerrank.com/YOUR-HACKERRANK" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" height="25" style="color:#2EC866"/> HackerRank
+  </a> |
+  <a href="https://stackoverflow.com/users/YOUR-ID" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/stackoverflow.svg" height="25"/> Stack Overflow
+  </a> |
+  <a href="https://www.instagram.com/YOUR-INSTAGRAM" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=instagram" height="25"/> Instagram
+  </a> |
+  <a href="mailto:YOUR-EMAIL" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="25"/> Email
+  </a>
+</p>
+
+---
+
+<h3 align="center">👨‍💻 About Me</h3>
+<p align="center">
+  Hi, I'm <b>Ahmed Hatem</b> 👨‍💻 <br>
+  Backend Web Developer | Computer & Communication Engineering Student at Alexandria National University
+  <br><br>
+  🎓 Currently studying <b>C, Data Structures, Computer & Communication Engineering</b>  
+  💻 Skilled in <b>JavaScript, Node.js, Express.js, SQL, MongoDB, REST APIs</b>  
+  🚀 Practicing with <b>Postman</b> & learning about <b>scalable backend systems</b>  
+</p>
+
+---
+
+<h2 align="center">🔥 Languages, Tools & Frameworks 🔥</h2>
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=c" height="40"/><br>C</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=javascript" height="40"/><br>JavaScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" height="40"/><br>Node.js</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" height="40"/><br>Express.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" height="40"/><br>MongoDB</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" height="40"/><br>MySQL</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" height="40"/><br>PostgreSQL</td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" height="40"/><br>SQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" height="40"/><br>Git</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" height="40"/><br>GitHub</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postman" height="40"/><br>Postman</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" height="40"/><br>VS Code</td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<p align=center>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=react&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=react&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=react&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
